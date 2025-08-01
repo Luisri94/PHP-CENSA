@@ -1,6 +1,24 @@
 # NOMBRE
 # LUIS ANDRES RIVERA
 ### 100 PALABRAS DE LO QUE HACE SU APLICACION   
+# Reggaetón Vibes
+Reggaetón Vibes es una aplicación donde puedes escuchar la mejor música de reguetón. Aquí encuentras canciones de artistas como Karol G, J Balvin, Bad Bunny y muchos más.
+
+¿Qué puedes hacer en la app?
+Escuchar música en línea
+Buscar tus canciones favoritas
+Ver letras mientras suena la música
+Crear listas de reproducción
+Descubrir nuevos artistas y canciones
+Compartir lo que escuchas con tus amigos
+
+Ideal para...
+Fans del reguetón
+Personas que quieren tener su música favorita en un solo lugar
+Quienes disfrutan descubrir nuevos éxitos
+
+💬 ¿Por qué la hicimos?
+Porque nos encanta el reguetón y queremos que más personas disfruten esta música de una forma fácil, rápida y divertida.
 
 #BAKUP BASE DATOS
 
